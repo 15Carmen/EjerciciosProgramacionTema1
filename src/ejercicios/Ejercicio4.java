@@ -15,7 +15,7 @@ public class Ejercicio4 {
         //Declaramos el Scanner para poder leer por consola
         Scanner sc = new Scanner(System.in);
 
-        //pequeño cambio para ver si puedo actualizar el proyecto en git
+        //parece que funciona, este es otro pequeño cambio
 
         /*
          * Le pedimos al usuario que introduzca la base del triángulo y lo guardamos en la variable homónima
